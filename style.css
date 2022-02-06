@@ -74,7 +74,7 @@ section a {
 
 .navbar-nav-left {
   text-transform: uppercase;
-  flex: 1;
+  margin-right: auto;
   margin-left: 20px;
   gap: 30px;
 }
